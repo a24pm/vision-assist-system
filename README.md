@@ -46,8 +46,6 @@ Speech synthesis (TTS)
 
 **Setup Instructions**
 
-Clone the repository - git clone https://github.com/a24pm/vision-assist-system.git
-                       cd vision-assist-system
 Create and activate a virtual environment - python -m venv venv  
                                             Windows- .\venv\Scripts\activate
                                             Linux / macOS- source venv/bin/activate

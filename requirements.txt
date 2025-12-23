@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+nltk
+textstat
+spacy
+flask
+joblib
+torch
+torchvision
+ultralytics
+seaborn
+matplotlib
+opencv-python
